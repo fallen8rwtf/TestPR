@@ -9,6 +9,7 @@ namespace TestPR
     {
         static void Main(string[] args)
         {
+            testc;
         }
     }
 }
